@@ -1,2 +1,2 @@
 # Soporte para la DDRISS Retalhuleu
-bienvenido al hekp desk de la DDRISS de retalhuleu
+bienvenido al help desk de la DDRISS de Retalhuleu
