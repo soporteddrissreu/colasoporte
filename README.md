@@ -1,2 +1,2 @@
-# colasoporte
-cola para el help desk de soporte de equipo de informatica
+# Soporte para la DDRISS Retalhuleu
+bienvenido al hekp desk de la DDRISS de retalhuleu
