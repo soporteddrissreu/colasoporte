@@ -1,2 +1,2 @@
-# Soprte Tecnico DDRISS
+# Soporte Tecnico DDRISS
 Inicio de pagina
